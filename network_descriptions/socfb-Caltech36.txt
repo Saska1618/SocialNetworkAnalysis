@@ -1,0 +1,22 @@
+INFO - Number of nodes: 769
+INFO - Number of links: 16656
+INFO - Min degree: 1
+INFO - Max degree: 248
+INFO - Avg degree: 43.318596
+WARNING - AS THE NETWORK IS NOT CONNECTED, THE DIAMETER OF THE NETWORK IS INFINITE
+INFO - Size of component: 762
+INFO - Diameter of component: 6
+INFO - ------------------------------
+INFO - Size of component: 3
+INFO - Diameter of component: 1
+INFO - ------------------------------
+INFO - Size of component: 2
+INFO - Diameter of component: 1
+INFO - ------------------------------
+INFO - Size of component: 2
+INFO - Diameter of component: 1
+INFO - ------------------------------
+INFO - Number of connected components: 4
+INFO - Size of largest connected component: 762
+INFO - Number of shortest paths: 769
+INFO - Average clustering coefficient: 0.409294
