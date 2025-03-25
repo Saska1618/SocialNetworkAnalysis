@@ -9,10 +9,10 @@ ATTILA
 FOR EACH GRAPH
 
     HUNOR
-    - provide a detailed description of the network: number of nodes, links, significance and meaning
+    - [x] provide a detailed description of the network: number of nodes, links, significance and meaning
 
     HUNOR
-    - compute network properties: min/max/average degree, dimaeter, connected componenets and the size of the largest one, shortest paths,average clustering coefficient
+    - [x] compute network properties: min/max/average degree, dimaeter, connected componenets and the size of the largest one, shortest paths,average clustering coefficient
 
     ATTILA
     - provide a visualization for the network
@@ -25,3 +25,24 @@ FOR EACH GRAPH
 
 HUNOR, MOZES, ATTILA
 - what type of network is the selected real network
+
+
+## Facebook Social Network Dataset
+
+### Overview
+This dataset represents a social friendship network extracted from Facebook. It consists of people (nodes) and their friendship ties (edges). The network is undirected and unweighted, meaning that friendships are mutual and there is no numerical weight assigned to the relationships.
+
+### Network Characteristics
+- **Number of Nodes (People):** 769
+- **Number of Links (Friendship Ties):** 16,656
+- **Vertex Type:** Person
+- **Edge Type:** Friendship, social relationship
+- **Graph Format:** Undirected
+- **Edge Weights:** Unweighted
+
+### Significance
+This dataset can be used to study social network structures, community detection, and information spread within a social environment. By analyzing the network, researchers can:
+- Identify influential individuals within the network.
+- Detect community structures and clusters of closely connected users.
+- Analyze the small-world properties and connectivity of social graphs.
+- Investigate the degree distribution and centrality measures to understand user influence.
