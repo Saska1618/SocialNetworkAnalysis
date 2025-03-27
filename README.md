@@ -46,3 +46,5 @@ This dataset can be used to study social network structures, community detection
 - Detect community structures and clusters of closely connected users.
 - Analyze the small-world properties and connectivity of social graphs.
 - Investigate the degree distribution and centrality measures to understand user influence.
+
+### We decided that our graph seems to be a scale-free network
